@@ -1,4 +1,4 @@
 # student-demo
 This is my first git repository.
 <br>
-author-swapnil gavada
+Author-swapnil gavada
